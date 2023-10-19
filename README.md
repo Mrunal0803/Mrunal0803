@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mrunal0803
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Web Development and Data Science 
+- 👋 Hi, I’m Mrunal!!
+- 👀 I’m interested in Cloud Computing.
+- 🌱 I’m currently learning BigData and Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me vaidyamrunal0803@gmail.com
 
