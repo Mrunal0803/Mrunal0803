@@ -15,9 +15,11 @@ I specialize in building and orchestrating ETL pipelines, leveraging the power o
 - **ETL Pipeline for Food Delivery Data**: Developed an end-to-end ETL pipeline using GCS, Dataflow, and BigQuery to process and analyze transaction data in the online food delivery industry. Automated workflow orchestration with Cloud Composer and generated insightful reports with Looker.
 
 **🌟 What Drives Me**
+
 I'm driven by a curiosity to explore the vast possibilities that data holds. I love diving into complex datasets, unraveling patterns, and providing meaningful insights that can drive business decisions. My goal is to leverage my skills in data engineering to contribute to innovative projects and make a tangible impact.
 
 **🚀 Let's Connect!**
+
 I'm always eager to connect with fellow data enthusiasts, mentors, and potential collaborators. Feel free to reach out to me for discussions on data engineering, GCP, or any exciting project opportunities. Let's connect and build something amazing together!
 
 
