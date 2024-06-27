@@ -12,7 +12,8 @@ I specialize in building and orchestrating ETL pipelines, leveraging the power o
 - **BigQuery**: High-performance data warehousing and analytics.
 
 **📚 Projects and Learning**
-- **ETL Pipeline for Food Delivery Data**: Developed an end-to-end ETL pipeline using GCS, Dataflow, and BigQuery to process and analyze transaction data in the online food delivery industry. Automated workflow orchestration with Cloud Composer and generated insightful reports with Looker.
+- **Enhancing Data Integration with Google Cloud: A Secure Pipeline for Employee Data**
+- **ETL Pipeline for Food Delivery Data**
 
 **🌟 What Drives Me**
 
